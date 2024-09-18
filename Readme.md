@@ -27,9 +27,9 @@ En esta ocasión, el bikram se dividirá en :crossed_swords: Pair Programming :c
 
 - [ ] 5.- Crear variable **booleanoAnd** cuyo valor sea la comparación booleana **booleano1 and booleano2**
 
-- [ ] 6.- Crear variable **booleanoNot** cuyo valor sea la compracación booleana **no booleano1**
+- [ ] 6.- Crear variable **booleanoNot** cuyo valor sea la comparación booleana **no booleano1**
 
-- [ ] 7.- Crear variable **booleanoMix0** cuyo valor sea la compración booleana **(booleano1 or booleano2) and (booleano1 or (not booleano1 and not booleano2)**
+- [ ] 7.- Crear variable **booleanoMix0** cuyo valor sea la comparación booleana **(booleano1 or booleano2) and (booleano1 or (not booleano1 and not booleano2))**
 
 ### Operadores ###
 
